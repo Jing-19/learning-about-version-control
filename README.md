@@ -1,2 +1,2 @@
 # learning-about-version-control
-author: Jing wen
+author: Jing Wen
